@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/turtle_the_protector.svg.png</file>
+        <file>Resources/Edu.png</file>
+    </qresource>
+</RCC>
